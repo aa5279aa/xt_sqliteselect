@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="tool_text_18_ffffff">
+        <item name="android:textSize">18dip</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="text_15_000000">
+        <item name="android:textSize">13dip</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="text_15_099fde">
+        <item name="android:textSize">15dip</item>
+        <item name="android:textColor">#099fde</item>
+    </style>
+
+    <style name="text_15_333333">
+        <item name="android:textSize">15dip</item>
+        <item name="android:textColor">#333333</item>
+    </style>
+
+</resources>
